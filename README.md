@@ -1,5 +1,4 @@
-# cybersecurity-journey
-# Cybersecurity Journey – Javier Umba
+# Cybersecurity Journey – Andrés Umba
 
 Este repositorio documenta mi transición desde Service Desk hacia ciberseguridad, con enfoque en SOC (Security Operations Center).
 
