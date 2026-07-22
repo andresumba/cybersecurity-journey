@@ -1,1 +1,32 @@
+# Seguridad ofensiva
 
+## ¿Qué es?
+
+La seguridad ofensiva consiste en identificar vulnerabilidades antes de que sean explotadas por un atacante real.
+
+Su objetivo es evaluar la seguridad de sistemas, aplicaciones y redes mediante técnicas de hacking ético.
+
+## Actividades comunes
+
+- Enumeración
+- Análisis de vulnerabilidades
+- Pruebas de penetración
+- Descubrimiento de servicios
+
+## Herramientas
+
+### DIRB
+
+DIRB es una herramienta utilizada para realizar enumeración de directorios y archivos ocultos en un sitio web.
+
+A partir de una URL base, prueba múltiples rutas para identificar contenido accesible que no es visible desde la navegación normal.
+
+## Conceptos aprendidos
+
+### Enumeración
+
+Proceso de recopilar información de forma sistemática sobre un sistema, servicio o aplicación antes de realizar pruebas más avanzadas.
+
+## Reflexión personal
+
+La seguridad ofensiva ayuda a descubrir debilidades antes de que sean aprovechadas por un atacante real.
